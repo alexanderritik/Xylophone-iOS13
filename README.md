@@ -10,7 +10,7 @@
   </p>
 </p>
 
-<p align="row">
+<p align="center">
 <img src= "https://github.com/alexanderritik/Xylophone-iOS13/blob/master/Screenshot%202020-08-09%20at%207.53.49%20PM.png" width="400" >
 
 </p>
